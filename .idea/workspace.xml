@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0ef5e4-d5e0-4090-96b8-7419c8cd479f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/About us.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Information.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Information/Information.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Information/Information.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Locations/Locations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Locations/Locations.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/About us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Cars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Help.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cars/Cars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cars/Cars.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Information.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Help/Help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Locations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Help/Help.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -38,8 +53,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/Components" />
+      <recent name="$PROJECT_DIR$/src/Components/Information" />
+      <recent name="$PROJECT_DIR$/src/Components/Locations" />
+      <recent name="$PROJECT_DIR$/src/Components/Home" />
+      <recent name="$PROJECT_DIR$/src/Components/Cars" />
+      <recent name="$PROJECT_DIR$/src/Components/Help" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611595032260</updated>
       <workItem from="1611595037354" duration="64000" />
-      <workItem from="1611595107640" duration="2661000" />
+      <workItem from="1611595107640" duration="4227000" />
     </task>
     <servers />
   </component>
