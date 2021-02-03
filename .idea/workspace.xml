@@ -2,29 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0ef5e4-d5e0-4090-96b8-7419c8cd479f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Cars/Electric/Electric.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cars/Electric/Electric.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cars/Sedan/Sedan.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cars/Sedan/Sedan.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Help/Help.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Locations/Locations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Main.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cars/Cars.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Cars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cars/Coupe/Coupe.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Help/Help.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Information/Information.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Information/Information.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cars/Coupe/Coupe.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Locations/Locations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +70,10 @@
       <workItem from="1611743550666" duration="7089000" />
       <workItem from="1611774098065" duration="4168000" />
       <workItem from="1611864660182" duration="1328000" />
+      <workItem from="1612194041675" duration="598000" />
+      <workItem from="1612284714012" duration="365000" />
+      <workItem from="1612285198252" duration="1001000" />
+      <workItem from="1612342032485" duration="3549000" />
     </task>
     <servers />
   </component>
