@@ -23,7 +23,7 @@ let Footer = (props) => {
                     <div className="col order-last text-right">
                         <h4>Social</h4>
                             <div>
-                                
+
                             </div>
                     </div>
                 </div>

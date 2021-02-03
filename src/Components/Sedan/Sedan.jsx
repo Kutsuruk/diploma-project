@@ -4,7 +4,7 @@ import classes from './Sedan.module.css'
 let Sedan = (props) => {
     return(
         <div>
-
+            Sedan cars
         </div>
     )
 }

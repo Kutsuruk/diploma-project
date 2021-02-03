@@ -1,27 +1,34 @@
 import React from "react";
 import classes from './Header.module.css'
-import {Nav, Navbar, NavDropdown} from "react-bootstrap";
+import {Button, Form, FormControl, Nav, Navbar, NavDropdown, NavLink} from "react-bootstrap";
 
 let Header = (props) => {
     return(
         <div>
-            <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
-                    <Nav className="mr-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#link">Link</Nav.Link>
-                        <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-                        </NavDropdown>
-                    </Nav>
-                </Navbar.Collapse>
-            </Navbar>
+            <nav>
+                <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+                    <Navbar.Brand to="/main">CarRentax</Navbar.Brand>
+                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                    <Navbar.Collapse id="responsive-navbar-nav">
+                        <Nav className="mr-auto">
+                            <Nav.Link to="/main">Home</Nav.Link>
+                            <Nav.Link to="/locations">Locations</Nav.Link>
+                            <Nav.Link to="/locations">Pricing</Nav.Link>
+                            <NavDropdown title="Cars" id="collasible-nav-dropdown">
+                                <NavDropdown.Item to="/sedan">Sedan</NavDropdown.Item>
+                                <NavDropdown.Item to="/coupe">Coupe</NavDropdown.Item>
+                                <NavDropdown.Item to="electronic">Electric</NavDropdown.Item>
+                                <NavDropdown.Item to="/hybrid">Hybrid</NavDropdown.Item>
+                                <NavDropdown.Divider />
+                                <NavDropdown.Item to="/scooter">Scooter</NavDropdown.Item>
+                            </NavDropdown>
+                        </Nav>
+                        <Nav>
+                            <Nav.Link to="/help">Help</Nav.Link>
+                        </Nav>
+                    </Navbar.Collapse>
+                </Navbar>
+            </nav>
         </div>
     )
 }

@@ -4,7 +4,7 @@ import classes from './Electric.module.css'
 let Electric = (props) => {
     return(
         <div>
-
+            Electric cars
         </div>
     )
 }

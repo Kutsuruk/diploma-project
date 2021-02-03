@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0ef5e4-d5e0-4090-96b8-7419c8cd479f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Carousel/Carousel.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main/Carousel/Carousel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Coupe/Coupe.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Hybrid/Hybrid.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Information/Information.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Pricing/Pricing.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Pricing/Pricing.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Scooter/Scooter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Scooter/Scooter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Sedan/Sedan.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Cars.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Cars.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Hybrid/Hybrid.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Coupe/Coupe.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Coupe/Coupe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Coupe/Coupe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Electric/Electric.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Electric/Electric.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Electric/Electric.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Electric/Electric.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Sedan/Sedan.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Sedan/Sedan.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cars/Sedan/Sedan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Information/Inforamtion.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Help/Help.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Help/Help.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Locations/Locations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Locations/Locations.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components" />
       <recent name="$PROJECT_DIR$/src/Components/Main" />
       <recent name="$PROJECT_DIR$/src/Components/Information" />
       <recent name="$PROJECT_DIR$/src/Components/Locations" />
       <recent name="$PROJECT_DIR$/src/Components/Home" />
-      <recent name="$PROJECT_DIR$/src/Components/Cars" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +95,7 @@
       <workItem from="1612284714012" duration="365000" />
       <workItem from="1612285198252" duration="1001000" />
       <workItem from="1612342032485" duration="12343000" />
-      <workItem from="1612359592760" duration="5279000" />
+      <workItem from="1612359592760" duration="16595000" />
     </task>
     <servers />
   </component>
