@@ -19,19 +19,19 @@ let Information = (props) => {
                 <div className="row text-center">
                     <div className="col">
                         <h4 className='display-3'>Safety</h4>
-                        <p className='h5 text-muted'>You can not be afraid for safety, we also monitor the quality of
+                        <p className='h5 text-justify text-muted'>You can not be afraid for safety, we also monitor the quality of
                             seat belts and airbags. For your child, we design child seats for greater safety.
                         </p>
                     </div>
                     <div className="col">
                         <h4 className='display-3'>Cleaning</h4>
-                        <p className='h5 text-muted'>Our cleaning company carries out cleaning of cars
+                        <p className='h5 text-justify text-muted'>Our cleaning company carries out cleaning of cars
                             after each client
                         </p>
                     </div>
                     <div className="col">
                         <h4 className='display-3'>Serviceability</h4>
-                        <p className='h5 text-muted'>Our machines are checked every 10,000 kilometers by an authorized
+                        <p className='h5 text-justify text-muted'>Our machines are checked every 10,000 kilometers by an authorized
                             dealer using new technologies.
                         </p>
                     </div>

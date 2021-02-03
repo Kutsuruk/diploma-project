@@ -10,7 +10,7 @@ let Footer = (props) => {
                         <h4>Address</h4>
                         <ul className='list-unstyled'>
                             <li>Odessa</li>
-                            <li>Kamanina st</li>
+                            <li>Ekaterininkaya st</li>
                         </ul>
                     </div>
                     <div className="col text-center">

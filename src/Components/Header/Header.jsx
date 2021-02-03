@@ -6,7 +6,7 @@ let Header = (props) => {
     return(
         <div>
             <nav>
-                <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+                <Navbar collapseOnSelect expand="lg" fixed='top' bg="dark" variant="dark">
                     <Navbar.Brand to="/main">CarRentax</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
