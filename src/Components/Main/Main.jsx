@@ -1,13 +1,11 @@
 import React from "react";
 import classes from './Main.module.css'
-import Header from "../Header/Header";
-import Footer from "../Footer/Footer";
+import Carrousel from "../Main/Carousel/Carousel";
 
 let Main = (props) => {
     return(
         <div>
-            <Header />
-            <Footer />
+            <Carrousel />
         </div>
     )
 }
