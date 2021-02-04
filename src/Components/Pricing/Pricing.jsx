@@ -1,7 +1,7 @@
 import React from "react";
 import classes from './Pricing.module.css'
 
-let Pricing = () => {
+let Pricing = (props) => {
     return(
         <div>
             Pricing

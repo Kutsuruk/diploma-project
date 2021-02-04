@@ -9,6 +9,11 @@ let Main = (props) => {
             <Carrousel />
             <br/>
             <Inforamtion />
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
         </div>
     )
 }

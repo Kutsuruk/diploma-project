@@ -4,9 +4,12 @@
     <list default="true" id="ea0ef5e4-d5e0-4090-96b8-7419c8cd479f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Main/Information/Inforamtion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Information/Inforamtion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Carousel/Carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Carousel/Carousel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pricing/Pricing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pricing/Pricing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Scooter/Scooter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Scooter/Scooter.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +79,7 @@
       <workItem from="1612285198252" duration="1001000" />
       <workItem from="1612342032485" duration="12343000" />
       <workItem from="1612359592760" duration="17609000" />
+      <workItem from="1612445114415" duration="599000" />
     </task>
     <servers />
   </component>

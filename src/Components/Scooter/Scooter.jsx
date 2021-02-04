@@ -4,7 +4,7 @@ import classes from './Scooter.module.css'
 let Scooter = (props) => {
     return(
         <div>
-            Scooter cars
+            Scooter
         </div>
     )
 }

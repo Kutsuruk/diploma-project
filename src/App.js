@@ -1,4 +1,5 @@
 import React from "react";
+import classes from './App.module.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Main from "./Components/Main/Main";
 import Header from "./Components/Header/Header";
@@ -13,10 +14,13 @@ import Help from "./Components/Help/Help";
 import Pricing from "./Components/Pricing/Pricing";
 import Scooter from "./Components/Scooter/Scooter";
 
-function App() {
+function App(props) {
   return (
-    <div className="app-wrapper">
+    <div className={classes.appWrapper}>
         <Header />
+        <br/>
+        <br/>
+        <br/>
             <div className="app-wrapper-content">
                 <Route exact={true} path='/main' render={() => <Main /> } />
                 <Route exact={true} path='/coupe' render={() => <Coupe /> } />

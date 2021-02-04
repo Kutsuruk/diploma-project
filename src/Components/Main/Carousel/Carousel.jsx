@@ -32,6 +32,18 @@ let Carrousel = (props) => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
+                    src="https://cdn.concreteplayground.com/content/uploads/2018/08/Scootie-supplied.jpeg"
+                    alt="Scooter image info"
+                />
+
+                <Carousel.Caption>
+                    <h3>Electric scooters</h3>
+                    <p>New trend for big cities - electric scooter.</p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                    className="d-block w-100"
                     src="https://www.enterprise.ca/content/dam/ent-brand/replacement-rental-launchpad-review.jpg.wrend.480.270.jpeg"
                     alt="Personal image info"
                 />
